@@ -1,4 +1,4 @@
-Hello, I'm Amit kumar jha 👋
+# Hello, I'm Amit kumar jha 👋
 Welcome to my GitHub! I'm a passionate frontend engineer with 2 years of experience creating pixel-perfect and user-friendly web applications. I love to combine my design and coding skills to build interactive and visually appealing websites.
 
 ## 💼 Experience
