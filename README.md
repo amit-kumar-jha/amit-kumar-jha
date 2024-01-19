@@ -14,8 +14,8 @@ Assisted in the implementation of new features and improvements to existing proj
 Contributed to the optimization of website performance and responsiveness.
 
 🚀 Skills
-Languages: HTML5, CSS3, JavaScript (ES6+)
-Frameworks/Libraries: Bootstrap, React.js, Next.js
+* Languages: HTML5, CSS3, JavaScript (ES6+)
+* Frameworks/Libraries: Bootstrap, React.js, Next.js
 Version Control: Git, GitHub
 Build Tools: Webpack, Babel
 Testing: Jest, React Testing Library
