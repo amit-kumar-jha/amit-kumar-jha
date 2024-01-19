@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate frontend engineer with 2 years of experie
 - Worked closely with UX/UI designers to translate design mockups into seamless user experiences.
 - Conducted code reviews to ensure code quality, best practices, and maintainability.
 - Collaborated with backend developers to integrate frontend components with server-side logic.
-### Frontend Developer at Solulab (Nov-2021 - May-2023
+### Frontend Developer at Solulab (Nov-2021 - May-2023)
 - Gained hands-on experience in building dynamic and responsive web pages.
 - Assisted in the implementation of new features and improvements to existing projects.
 - Contributed to the optimization of website performance and responsiveness.
