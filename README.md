@@ -2,7 +2,15 @@
 Welcome to my GitHub! I'm a passionate frontend engineer with 2 years of experience creating pixel-perfect and user-friendly web applications. I love to combine my design and coding skills to build interactive and visually appealing websites.
 
 ## 💼 Experience
-### Frontend Engineer at EnverX (May-2023 - Present)
+
+### Freelance Frontend Engineer (July 2024 - Present)
+- Developed and delivered high-quality frontend solutions for various clients.  
+- Built responsive and scalable web applications using Next.js, React, and Tailwind CSS.  
+- Created immersive animations and interactive UI components using Three.js and Framer Motion.  
+- Worked on optimizing UI/UX for better performance and user engagement.  
+- Integrated third-party APIs and services to enhance application functionality.  
+- Ensured cross-browser compatibility and mobile responsiveness in all projects.  
+### Frontend Engineer at Vericap (May-2023 - June-2024)
 - Collaborated with cross-functional teams to develop and maintain scalable and responsive web applications.
 - Implemented and optimized user interfaces using modern web technologies such as HTML5, CSS3, and JavaScript.
 - Worked closely with UX/UI designers to translate design mockups into seamless user experiences.
