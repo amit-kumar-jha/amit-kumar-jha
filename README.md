@@ -21,16 +21,32 @@ Welcome to my GitHub! I'm a passionate frontend engineer with 2 years of experie
 - Assisted in the implementation of new features and improvements to existing projects.
 - Contributed to the optimization of website performance and responsiveness.
 
-## 🚀 Skills
-* Languages: HTML5, CSS3, JavaScript (ES6+)
-* Frameworks/Libraries: Bootstrap, React.js, Next.js
-* Version Control: Git, GitHub
-* Build Tools: Webpack, Babel
-* Testing: Jest, React Testing Library
-* Design Tools: Figma
-* Responsive Design: Flexbox, CSS Grid
-🌱 Currently Learning
-* I'm always eager to learn and stay up-to-date with the latest trends in frontend development. Currently, I'm exploring Next.js with tailwind css to enhance my skill set.
+### **Skills**
+
+#### **Languages:**  
+HTML5, CSS3, JavaScript (ES6+), TypeScript  
+
+#### **Frameworks/Libraries:**  
+React.js, Next.js, Tailwind CSS, Bootstrap, Framer Motion, Three.js  
+
+#### **Version Control:**  
+Git, GitHub  
+
+#### **Build Tools:**  
+Webpack, Babel  
+
+#### **Testing:**  
+Jest, React Testing Library  
+
+#### **Design Tools:**  
+Figma  
+
+#### **Responsive Design:**  
+Flexbox, CSS Grid  
+
+### 🌱 **Currently Learning**  
+I'm always eager to learn and stay up-to-date with the latest trends in frontend development. Currently, I'm exploring advanced animations using **Three.js** and **Framer Motion**, along with optimizing performance in **Next.js** applications.  
+
 
 ## 📫 Let's Connect
 * LinkedIn: [(https://www.linkedin.com/in/amit-kumar-jha-00405a185/)]
